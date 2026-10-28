@@ -8,27 +8,34 @@
 
                                    
 
-🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), I'm interested in all things electronic and programming related. I spend most of my time working on my campus work and design computer based graphics in my free time. I also like to fix electronic equipment and even design my own if I get the chance.
+🧑‍🔬 As an Electronics and Telecommunication Engineering undergraduate from [Sri Lanka Technological Campus](www.sltc.ac.lk), ## HI👋
 
-**Skills:** Electronic Engineering ⚡ | FPGAs basic vivado programming | Programming 💻 | Graphic Designing 📊 | Teamwork 🤝 | 
+I’m a technology enthusiast with hands-on experience in software support, system implementation, integrations, and troubleshooting. My background in Electronics and Telecommunication Engineering has shaped my interest in understanding how systems work and solving practical technical problems.
 
-- 🤗 Passionate about anything tech
-- 👍 Like music, good art and exercise,Like CG based design
-- 👷🏾 Working on becoming a reputed engineer in the field of electronics
-- 🎓 Studying Electronics and Telecommunication Engineering at SLTC
-- 📧 How to reach me: [Thaweenethmina@gmail.com](mailto:Thaweenethmina@gmail.com)
+I’m now building my career around software systems and networking while exploring how AI agents and automation can improve business processes and software operations.
 
+**Skills:** Software Support 💻 | System Implementation ⚙️ | Troubleshooting 🛠️ | Client Coordination 🤝 | Requirements Gathering 📝 | Teamwork 🌐
 
+- 💼 Working as an **Associate Software Support & Implementation Engineer at Boost Hotels (PVT) Limited**.
+- 🎓 Currently pursuing an **HND in Computing – Networking Pathway at ESOFT UNI**.
+- 📡 Engineering background in **Electronics and Telecommunication at Sri Lanka Technological Campus (SLTC)**.
+- 🌱 Developing my knowledge of **networking, cloud computing, and AI automation**.
+- 🎯 Working toward combining software, networking, and AI to build practical technology solutions.
+- 📧 Reach me at **[Thaweenethmina@gmail.com](mailto:Thaweenethmina@gmail.com)**.
+- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/thaweesha-kasiwatta-620a93204/)**.
 
-## 🗝️ Key Languages
+## 🗝️ Key Skills & Experience
 
-⚡I am interested in a variety of fields. I find myself comfortable mostly in windows programming. However, I am interested in hardware descriptions languages like Verilog as well. On the other hand, I also do low level programming such as C/C++ and Assembly. Eventhough not my strong point, I'm also capable of working with web development tools. 
+- **Software support:** Managing support tickets, troubleshooting system issues, and assisting clients.
+- **Implementation & integration:** Supporting software deployments, system integrations, and client onboarding.
+- **Quality assurance:** Experience working with a QA team and participating in user acceptance testing (UAT).
+- **Coordination & documentation:** Gathering requirements, communicating with stakeholders, and documenting requirements and meetings.
 
-```
-𓇲 Verilog            ⭐⭐                   💻 Visual Basic      ⭐⭐                 🖥️ Visual C#         ⭐⭐
-💾 C                 ⭐⭐                   💿 C++               ⭐                 
-🐍 Python            ⭐⭐                                                          
-🌏 HTML              ⭐⭐                   🖌️ CSS               ⭐
+## 🚀 Learning & Interests
+
+- **Networking:** Building knowledge through my current HND studies and previous exposure to an IT & Core Network division.
+- **Cloud computing:** Developing foundational knowledge.
+- **AI agents & automation:** Exploring how intelligent automation can support business processes, software operations, and cybersecurity.
 ```
 
  
